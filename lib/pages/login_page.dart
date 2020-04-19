@@ -19,7 +19,6 @@ class LoginPage extends StatelessWidget {
 
     return Container (
       height: size.height * 0.4,
-      alignment: ,
     )
   }
 }
